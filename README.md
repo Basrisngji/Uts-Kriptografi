@@ -5,6 +5,11 @@ Implementasi Affine Cipher pada Sistem Web Data Nasabah
 Deskripsi Masalah:
 <p>Affine Cipher adalah jenis cipher substitusi yang menggabungkan enkripsi Caesar Cipher dengan perkalian. Anda diinstruksikan untuk menerapkan Affine Cipher sebagai bagian dari lapisan keamanan untuk sistem web yang menangani data nasabah sebuah bank. Setiap password harus dienkripsi sebelum disimpan ke dalam database.
 
+## Cara Menggunakan Aplikasi
+<p>1. Buka index.php dan isi formulir dengan data nasabah.
+<p>2. Data akan disimpan dalam database "affine_cipher" setelah dienkripsi menggunakan Affine Cipher.
+<p>3. Kunjungi data.php untuk melihat data yang telah disimpan.
+
 ## Pembuatan
 <h4>1. Membuat Database dan Tabel:</h4>
 
@@ -328,9 +333,6 @@ $conn->close();
 </body>
 </html>
 ```
-## Penggunaan Aplikasi
-<p>1. Buka index.php dan isi formulir dengan data nasabah.
-<p>2. Data akan disimpan dalam database "affine_cipher" setelah dienkripsi menggunakan Affine Cipher.
-<p>3. Kunjungi data.php untuk melihat data yang telah disimpan.
 
-## Contoh Penggunaan
+## Penggunaan Aplikasinya
+
