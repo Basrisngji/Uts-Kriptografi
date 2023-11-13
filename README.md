@@ -10,6 +10,19 @@ Deskripsi Masalah:
 <p>2. Data akan disimpan dalam database "affine_cipher" setelah dienkripsi menggunakan Affine Cipher.
 <p>3. Kunjungi data.php untuk melihat data yang telah disimpan.
 
+## Penggunaan Aplikasinya
+<p>1. Dalam penggunaan kali ini saya memakai parameter :
+    <p>a =5 
+    <p>b =8
+<p>2. Tabel data tersambung dengan database
+
+### Tampilan Form Data Nasabah
+![Gambar 1](img/1.png)
+### Tampilan Tabel Data
+![Gambar 1](img/2.png)
+### Databasenya
+![Gambar 1](img/3.png)
+
 ## Pembuatan
 <h4>1. Membuat Database dan Tabel:</h4>
 
@@ -334,5 +347,5 @@ $conn->close();
 </html>
 ```
 
-## Penggunaan Aplikasinya
+
 
